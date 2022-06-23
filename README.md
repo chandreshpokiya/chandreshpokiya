@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Ecommerce Web](https://github.com/chandreshpokiya/bikeEcommerce)**
+- 🔭 I’m currently working on **[Blog System](https://github.com/chandreshpokiya/bikeEcommerce)**
 
 - 🌱 I’m currently learning **NodeJS and Database.**
 
