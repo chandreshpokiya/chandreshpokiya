@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **[Blog System](https://github.com/chandreshpokiya/blog-system-nodejs)**
 
-- 🌱 I’m currently learning **NodeJS and Database.**
+- 🌱 I’m currently learning **ReactJS.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
